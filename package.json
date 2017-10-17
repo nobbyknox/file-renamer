@@ -1,0 +1,11 @@
+{
+    "name": "file-renamer",
+    "version": "0.0.1",
+    "description": "Supposed to rename files",
+    "main": "file-renamer.js",
+    "author": "Nobby Knox <nobbyknox@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "^2.19.1"
+    }
+}
